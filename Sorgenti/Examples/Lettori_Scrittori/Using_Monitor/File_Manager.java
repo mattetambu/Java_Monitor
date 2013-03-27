@@ -1,6 +1,8 @@
 package Examples.Lettori_Scrittori.Using_Monitor;
-  
-class File_Manager {
+
+import Monitor.*;
+
+public class File_Manager {
 	private int active_readers;
 	private boolean active_writer;
 	

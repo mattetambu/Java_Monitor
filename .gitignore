@@ -73,6 +73,12 @@ ipch/
 *.opensdf
 *.sdf
 
+# C++ object files
+*.o
+
+# Java object files
+*.class
+
 # Visual Studio profiler
 *.psess
 *.vsp

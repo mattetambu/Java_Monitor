@@ -1,3 +1,5 @@
+package Examples.Lettori_Scrittori;
+
 //import Examples.Lettori_Scrittori.Using_Java5.*;
 import Examples.Lettori_Scrittori.Using_Monitor.*;
 import Monitor.*;

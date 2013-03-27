@@ -1,6 +1,6 @@
 package Monitor;
 
-class FairLock {
+public class FairLock {
 	private int urgent_count;
 	private Semaphore mutex;
 	private Semaphore urgent;
@@ -9,7 +9,7 @@ class FairLock {
 		private int cond_count;
 		private Semaphore cond_sem ;
 		
-		public Condition (int num) {
+		public Condition () {
 			cond_count = 0;
 			cond_sem = new Semaphore (0);
 		}
@@ -51,7 +51,7 @@ class FairLock {
 		else mutex.V();
 	}
 	
-	public synchronized Coindition newCondition () {
+	public synchronized Condition newCondition () {
 		return new Condition();
 	}
 }

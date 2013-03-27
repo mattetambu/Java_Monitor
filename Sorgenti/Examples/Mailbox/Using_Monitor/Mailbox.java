@@ -1,13 +1,15 @@
 package Examples.Mailbox.Using_Monitor;
 
+import Monitor.*;
+
 public class Mailbox {
 	private final int N;
 	private int [] buffer;
 	private int count, head, tail;
 	
 	private FairLock mutex = new FairLock();
-	private Condition not_full = mutex.newCondition();			//FairLock.Condition
-	private Condition not_empty = mutex.newCondition();			//FairLock.Condition
+	private FairLock.Condition not_full = mutex.newCondition();			//FairLock.Condition
+	private FairLock.Condition not_empty = mutex.newCondition();			//FairLock.Condition
 	
 	public Mailbox(int dim) {
 		N = dim;

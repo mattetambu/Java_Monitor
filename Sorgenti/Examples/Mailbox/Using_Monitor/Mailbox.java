@@ -8,40 +8,64 @@ public class Mailbox {
 	private int count, head, tail;
 	
 	private FairLock mutex = new FairLock();
+<<<<<<< HEAD
 	private FairLock.Condition not_full = mutex.newCondition();			//FairLock.Condition
 	private FairLock.Condition not_empty = mutex.newCondition();			//FairLock.Condition
+=======
+	private FairLock.Condition not_full = mutex.newCondition();
+	private FairLock.Condition not_empty = mutex.newCondition();
+>>>>>>> Completed all the classes and all exsamples
 	
 	public Mailbox(int dim) {
 		N = dim;
 		buffer = new int[dim];
 		count = head = tail = 0;
+		System.out.println(" -----------------------------------------------\n -- Created Mailbox --");
 	}
 	
-	public void send (int message) {
-		mutex.lock();
-		
-		if (count == N) not_full.await();
-		buffer[tail] = message;
-		tail = (tail + 1) % N;
-		count++;
-		System.out.println("Inviato " + message);
-		not_empty.signal();
+	public void send (int message) throws InterruptedException  {
+		try {
+			mutex.lock();
+			
+			System.out.println("  Send request of message " + message);
+			
+			if (count == N) {
+				System.out.println("    Wait not-full buffer");
+				not_full.await();
+			}
+			buffer[tail] = message;
+			tail = (tail + 1) % N;
+			count++;
+			System.out.println("      Message " + message + " send");
 
+			not_empty.signal();
+		}
+		finally {
 		mutex.unlock();
+		}
 	}
 	
-	public int receive () {
+	public int receive () throws InterruptedException  {
 		int message;
-		mutex.lock();
-
-		if (count == 0) not_empty.await();
-		message = buffer[head];
-		head = (head + 1) % N;
-		count--;
-		System.out.println("Ricevuto " + message);
-		not_full.signal();
-
-		mutex.unlock();
+		try {
+			mutex.lock();
+			
+			System.out.println("  Receive request");
+			
+			if (count == 0) {
+				System.out.println("    Wait not-empty buffer");
+				not_empty.await();
+			}
+			message = buffer[head];
+			head = (head + 1) % N;
+			count--;
+			System.out.println("      Received message " + message);
+						
+			not_full.signal();
+		}
+		finally {
+			mutex.unlock();
+		}
 		return message;
 	}
 }

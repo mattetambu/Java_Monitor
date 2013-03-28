@@ -4,6 +4,25 @@ public class FairLock {
 	private int urgent_count;
 	private Semaphore mutex;
 	private Semaphore urgent;
+		
+	public FairLock () {
+		urgent_count = 0;
+		mutex = new Semaphore(1);
+		urgent = new Semaphore(0);
+	}
+	
+	public void lock () throws InterruptedException  {
+		mutex.P();
+	}
+	
+	public void unlock () {
+		if (urgent_count > 0) urgent.V();
+		else mutex.V();
+	}
+	
+	public Condition newCondition () {
+		return new Condition();
+	}
 	
 	public class Condition {
 		private int cond_count;
@@ -14,7 +33,7 @@ public class FairLock {
 			cond_sem = new Semaphore (0);
 		}
 		
-		public void await () {
+		public void await () throws InterruptedException  {
 			cond_count++;
 			if (urgent_count > 0) urgent.V();
 			else mutex.V();
@@ -22,7 +41,7 @@ public class FairLock {
 			cond_count--;			
 		}
 		
-		public void signal () {
+		public void signal () throws InterruptedException  {
 			if (cond_count > 0) {
 				urgent_count++;
 				cond_sem.V();
@@ -36,6 +55,7 @@ public class FairLock {
 		}
 	};
 	
+<<<<<<< HEAD
 	public FairLock () {
 		urgent_count = 0;
 		mutex = new Semaphore(1);
@@ -54,4 +74,6 @@ public class FairLock {
 	public synchronized Condition newCondition () {
 		return new Condition();
 	}
+=======
+>>>>>>> Completed all the classes and all exsamples
 }

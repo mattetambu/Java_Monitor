@@ -4,28 +4,25 @@ public class Receiver extends Thread {
 	private int receive_times;
 	private Mailbox mailbox;
 	
-	public Receiver (Mailbox mailbox) {
-		receive_times = 1;
-		this.mailbox = mailbox;
-		
-		start();
-	}
 	public Receiver (Mailbox mailbox, int times) {
 		receive_times = times;
 		this.mailbox = mailbox;
 		
+		System.out.println(" -- Created Receiver -- ");
 		start();
 	}
 
 	public void run () {
+		int messagge;
 		try {
             for (int i = 0; i < receive_times; i++) {
-                mailbox.receive();
-                sleep(250);
+				messagge = mailbox.receive();
+                //sleep(250);
             }
         }
 		catch (Exception e) {
-            System.out.println(e.toString());
+            System.out.println("############## ERROR ##############");
+			System.out.println(e.toString());
         }
 	}
 }

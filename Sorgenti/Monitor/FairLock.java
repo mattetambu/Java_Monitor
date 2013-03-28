@@ -54,26 +54,4 @@ public class FairLock {
 			return (cond_count == 0);
 		}
 	};
-	
-<<<<<<< HEAD
-	public FairLock () {
-		urgent_count = 0;
-		mutex = new Semaphore(1);
-		urgent = new Semaphore(0);
-	}
-	
-	public synchronized void lock () {		//Prologo di ogni funzione
-		mutex.P();
-	}
-	
-	public synchronized void unlock () {	//Epilogo di ogni funzione
-		if (urgent_count > 0) urgent.V();
-		else mutex.V();
-	}
-	
-	public synchronized Condition newCondition () {
-		return new Condition();
-	}
-=======
->>>>>>> Completed all the classes and all exsamples
 }

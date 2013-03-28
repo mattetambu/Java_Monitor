@@ -8,13 +8,9 @@ public class Mailbox {
 	private int count, head, tail;
 	
 	private FairLock mutex = new FairLock();
-<<<<<<< HEAD
-	private FairLock.Condition not_full = mutex.newCondition();			//FairLock.Condition
-	private FairLock.Condition not_empty = mutex.newCondition();			//FairLock.Condition
-=======
 	private FairLock.Condition not_full = mutex.newCondition();
 	private FairLock.Condition not_empty = mutex.newCondition();
->>>>>>> Completed all the classes and all exsamples
+
 	
 	public Mailbox(int dim) {
 		N = dim;

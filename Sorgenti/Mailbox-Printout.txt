@@ -1,0 +1,5433 @@
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Send request of message 10
+      Message 10 send
+  Receive request
+      Received message 10
+  Send request of message 22
+      Message 22 send
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 22
+  Send request of message 33
+      Message 33 send
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 20
+  Send request of message 44
+      Message 44 send
+  Send request of message 40
+    Wait not-full buffer
+  Receive request
+      Received message 33
+      Message 40 send
+  Send request of message 55
+    Wait not-full buffer
+  Receive request
+      Received message 30
+      Message 55 send
+  Send request of message 66
+    Wait not-full buffer
+  Receive request
+      Received message 44
+      Message 66 send
+  Receive request
+      Received message 40
+  Receive request
+      Received message 55
+  Receive request
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 11
+      Message 11 send
+  Send request of message 10
+      Message 10 send
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 11
+  Receive request
+      Received message 10
+  Send request of message 20
+      Message 20 send
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 22
+  Receive request
+      Received message 20
+  Send request of message 30
+      Message 30 send
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 33
+  Receive request
+      Received message 30
+  Send request of message 40
+      Message 40 send
+  Send request of message 55
+      Message 55 send
+  Receive request
+      Received message 44
+  Receive request
+      Received message 40
+  Send request of message 66
+      Message 66 send
+  Receive request
+      Received message 55
+  Receive request
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+  Send request of message 20
+      Message 20 send
+  Send request of message 30
+      Message 30 send
+  Send request of message 40
+    Wait not-full buffer
+  Receive request
+      Received message 10
+      Message 40 send
+  Receive request
+      Received message 20
+  Receive request
+      Received message 30
+  Receive request
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 10
+      Message 10 send
+  Receive request
+      Received message 10
+  Send request of message 66
+      Message 66 send
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 66
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 20
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 30
+  Receive request
+      Received message 40
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+  Send request of message 10
+ -- Created Receiver -- 
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 66
+      Message 66 send
+  Receive request
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Send request of message 40
+      Message 40 send
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 40
+  Receive request
+      Received message 22
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Send request of message 55
+      Message 55 send
+  Receive request
+      Received message 55
+  Send request of message 66
+      Message 66 send
+  Receive request
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+  Send request of message 10
+ -- Created Receiver -- 
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Send request of message 20
+      Message 20 send
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 20
+  Receive request
+      Received message 22
+  Send request of message 30
+      Message 30 send
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 30
+  Receive request
+      Received message 33
+  Send request of message 40
+      Message 40 send
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 40
+  Receive request
+      Received message 44
+  Send request of message 55
+      Message 55 send
+  Receive request
+      Received message 55
+  Send request of message 66
+      Message 66 send
+  Receive request
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 20
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 11
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 30
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 22
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 40
+  Receive request
+      Received message 33
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 11
+      Message 11 send
+  Send request of message 10
+      Message 10 send
+  Receive request
+      Received message 11
+  Send request of message 22
+      Message 22 send
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 10
+  Receive request
+      Received message 22
+  Send request of message 33
+      Message 33 send
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 20
+  Receive request
+      Received message 33
+  Send request of message 44
+      Message 44 send
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 30
+  Receive request
+      Received message 44
+  Send request of message 55
+      Message 55 send
+  Receive request
+      Received message 40
+  Receive request
+      Received message 55
+  Send request of message 66
+      Message 66 send
+  Receive request
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 66
+      Message 66 send
+  Receive request
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Send request of message 10
+      Message 10 send
+  Receive request
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Send request of message 10
+      Message 10 send
+  Receive request
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Send request of message 10
+      Message 10 send
+  Receive request
+      Received message 10
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 20
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 30
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 40
+  Send request of message 55
+      Message 55 send
+  Receive request
+      Received message 55
+  Send request of message 66
+      Message 66 send
+  Receive request
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Send request of message 11
+      Message 11 send
+  Receive request
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Send request of message 22
+      Message 22 send
+  Receive request
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Send request of message 33
+      Message 33 send
+  Receive request
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Send request of message 44
+      Message 44 send
+  Receive request
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Receive request
+    Wait not-empty buffer
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+  Receive request
+    Wait not-empty buffer
+ -- Created Sender -- 
+ -- Created Sender -- 
+ -- Created Receiver -- 
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Receive request
+    Wait not-empty buffer
+  Send request of message 20
+      Message 20 send
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Receive request
+    Wait not-empty buffer
+  Send request of message 30
+      Message 30 send
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Receive request
+    Wait not-empty buffer
+  Send request of message 40
+      Message 40 send
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66
+ -----------------------------------------------
+ -- Created Mailbox --
+ -- Created Receiver -- 
+ -- Created Sender -- 
+ -- Created Sender -- 
+  Receive request
+ -- Created Receiver -- 
+    Wait not-empty buffer
+  Send request of message 10
+      Message 10 send
+      Received message 10
+  Receive request
+    Wait not-empty buffer
+  Send request of message 11
+      Message 11 send
+      Received message 11
+  Send request of message 20
+      Message 20 send
+  Receive request
+      Received message 20
+  Receive request
+    Wait not-empty buffer
+  Send request of message 22
+      Message 22 send
+      Received message 22
+  Send request of message 30
+      Message 30 send
+  Receive request
+      Received message 30
+  Receive request
+    Wait not-empty buffer
+  Send request of message 33
+      Message 33 send
+      Received message 33
+  Send request of message 40
+      Message 40 send
+  Receive request
+      Received message 40
+  Receive request
+    Wait not-empty buffer
+  Send request of message 44
+      Message 44 send
+      Received message 44
+  Receive request
+    Wait not-empty buffer
+  Receive request
+    Wait not-empty buffer
+  Send request of message 55
+      Message 55 send
+      Received message 55
+  Send request of message 66
+      Message 66 send
+      Received message 66

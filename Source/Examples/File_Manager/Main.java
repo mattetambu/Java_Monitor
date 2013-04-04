@@ -1,8 +1,7 @@
-package Examples.Lettori_Scrittori;
+package Examples.File_Manager;
 
-//import Examples.Lettori_Scrittori.Using_Java5.*;
-import Examples.Lettori_Scrittori.Using_Monitor.*;
-import Monitor.*;
+import Examples.File_Manager.Using_Java5.*;
+//import Examples.File_Manager.Using_Monitor.*;
 
 public class Main {
     public static void main (String[] args) {

@@ -1,4 +1,4 @@
-package Examples.Lettori_Scrittori.Using_Monitor;
+package Examples.File_Manager.Using_Monitor;
 
 public class Reader extends Thread {
 	private int read_times;
@@ -16,7 +16,7 @@ public class Reader extends Thread {
 		try {
             for (int i = 0; i < read_times; i++) {
                 file_manager.start_reading();
-                //sleep(250);
+                sleep(100);
                 file_manager.end_reading();
             }
         }

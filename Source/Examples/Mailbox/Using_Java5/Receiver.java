@@ -1,4 +1,4 @@
-package Examples.Mailbox.Using_Monitor;
+package Examples.Mailbox.Using_Java5;
 
 public class Receiver extends Thread {
 	private int receive_times;
@@ -17,7 +17,7 @@ public class Receiver extends Thread {
 		try {
             for (int i = 0; i < receive_times; i++) {
 				messagge = mailbox.receive();
-                //sleep(250);
+                sleep(100);
             }
         }
 		catch (Exception e) {

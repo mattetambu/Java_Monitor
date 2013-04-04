@@ -1,4 +1,4 @@
-package Examples.Lettori_Scrittori.Using_Monitor;
+package Examples.File_Manager.Using_Java5;
 
 public class Writer extends Thread {
 	private int write_times;
@@ -16,7 +16,7 @@ public class Writer extends Thread {
 		try {
             for (int i = 0; i < write_times; i++) {
                 file_manager.start_writing();
-                //sleep(250);
+                sleep(100);
                 file_manager.end_writing();
             }
         }

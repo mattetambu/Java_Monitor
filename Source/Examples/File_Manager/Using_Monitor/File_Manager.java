@@ -1,34 +1,29 @@
-package Examples.Lettori_Scrittori.Using_Monitor;
+package Examples.File_Manager.Using_Monitor;
 
 import Monitor.*;
 
 public class File_Manager {
-	private int active_readers;
-	private boolean active_writer;
+	private int active_readers = 0;
+	private boolean active_writer = false;
 	
-	private FairLock mutex;
-	private FairLock.Condition ok_readers;
-	private FairLock.Condition ok_writer;
+	private FairLock mutex = new FairLock();
+	private FairLock.Condition ok_readers = mutex.newCondition();
+	private FairLock.Condition ok_writer = mutex.newCondition();
 	
 	public File_Manager () {
-		active_readers = 0;
-		active_writer = false;
-		mutex = new FairLock();
-		ok_readers = mutex.newCondition();
-		ok_writer = mutex.newCondition();
 		System.out.println(" -----------------------------------------------\n -- Created File_Manager --");
 	}
 	
 	public void start_reading () throws InterruptedException  {
 		try {
 			mutex.lock();
-			System.out.println("  Reading request");
+			System.out.println("  Read request");
 			
 			if (active_writer || !ok_writer.empty()) {
-				System.out.println("    Wait readers turn");
+				System.out.println("    Waiting for readers turn");
 				ok_readers.await();
 			}
-			System.out.println("      Start Reading");
+			System.out.println("      Start reading");
 			active_readers++;
 			ok_readers.signal();
 		}
@@ -41,7 +36,7 @@ public class File_Manager {
 		try {
 			mutex.lock();
 			active_readers--;
-			System.out.println("      End Reading - " + active_readers + " readers are still reading");
+			System.out.println("      End reading - " + active_readers + " readers are still reading");
 			
 			if (active_readers == 0) ok_writer.signal();
 		}
@@ -53,13 +48,13 @@ public class File_Manager {
 	public void start_writing () throws InterruptedException  {
 		try {
 			mutex.lock();
-			System.out.println("  Writing request");
+			System.out.println("  Write request");
 			
 			if (active_writer || active_readers > 0) {
-				System.out.println("    Wait my turn");
+				System.out.println("    Waiting for my turn");
 				ok_writer.await();
 			}
-			System.out.println("      Start Writing");
+			System.out.println("      Start writing");
 			active_writer = true;
 		}
 		finally {
@@ -70,7 +65,7 @@ public class File_Manager {
 	public void end_writing () throws InterruptedException  {
 		try {
 			mutex.lock();
-			System.out.println("      End Writing");
+			System.out.println("      End writing");
 			
 			active_writer = false;
 			if (!ok_readers.empty()) ok_readers.signal();
@@ -81,5 +76,3 @@ public class File_Manager {
 		}
 	}
 }
-
-

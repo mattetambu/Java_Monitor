@@ -18,7 +18,7 @@ public class Sender extends Thread {
 		try {
             for (int i = 0; i < send_times; i++) {
 				mailbox.send((int) ID*(i+1));
-                //sleep(250);
+                sleep(100);
             }
         }
 		catch (Exception e) {

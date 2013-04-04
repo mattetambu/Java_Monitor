@@ -1,14 +1,11 @@
 package Monitor;
 
 public class FairLock {
-	private int urgent_count;
-	private Semaphore mutex;
-	private Semaphore urgent;
+	private int urgent_count = 0;
+	private Semaphore mutex = new Semaphore(1);
+	private Semaphore urgent = new Semaphore(0);
 		
 	public FairLock () {
-		urgent_count = 0;
-		mutex = new Semaphore(1);
-		urgent = new Semaphore(0);
 	}
 	
 	public void lock () throws InterruptedException  {
@@ -25,12 +22,10 @@ public class FairLock {
 	}
 	
 	public class Condition {
-		private int cond_count;
-		private Semaphore cond_sem ;
+		private int cond_count = 0;
+		private Semaphore cond_sem = new Semaphore (0);
 		
 		public Condition () {
-			cond_count = 0;
-			cond_sem = new Semaphore (0);
 		}
 		
 		public void await () throws InterruptedException  {

@@ -1,8 +1,7 @@
 package Examples.Mailbox;
 
-//import Examples.Mailbox.Using_Java5.*;
-import Examples.Mailbox.Using_Monitor.*;
-import Monitor.*;
+import Examples.Mailbox.Using_Java5.*;
+//import Examples.Mailbox.Using_Monitor.*;
 
 public class Main {
     public static void main (String[] args) {

@@ -22,8 +22,7 @@ public class Requester extends Thread {
             }
         }
 		catch (Exception e) {
-            System.out.println("############## ERROR ##############");
-			System.out.println(e.toString());
+            System.out.println("\n\t############## ERROR ##############\n\t" + e.toString() + "\n");
         }
 	}
 }

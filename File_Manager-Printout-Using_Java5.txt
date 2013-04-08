@@ -1,0 +1,58 @@
+ -----------------------------------------------
+ -- Created File_Manager --
+ -- Created Reader -- 
+ -- Created Reader -- 
+  Read request
+      Start reading
+  Read request
+      Start reading
+ -- Created Writer -- 
+ -- Created Writer -- 
+  Write request
+    Waiting for my turn
+  Write request
+    Waiting for my turn
+      End reading - 1 readers are still reading
+  Read request
+    Waiting for readers turn
+      End reading - 0 readers are still reading
+  Read request
+    Waiting for readers turn
+      Start writing
+      End writing
+  Write request
+      Start writing
+    Waiting for readers turn
+      End writing
+      Start reading
+      Start reading
+      End reading - 1 readers are still reading
+  Read request
+    Waiting for readers turn
+      End reading - 0 readers are still reading
+  Read request
+      Start reading
+    Waiting for my turn
+      Start reading
+      End reading - 1 readers are still reading
+  Read request
+    Waiting for readers turn
+      End reading - 0 readers are still reading
+  Read request
+      Start reading
+    Waiting for my turn
+      Start reading
+      End reading - 1 readers are still reading
+      End reading - 0 readers are still reading
+  Read request
+      Start reading
+    Waiting for my turn
+      End reading - 0 readers are still reading
+      Start writing
+      End writing
+  Write request
+      Start writing
+      End writing
+  Write request
+      Start writing
+      End writing

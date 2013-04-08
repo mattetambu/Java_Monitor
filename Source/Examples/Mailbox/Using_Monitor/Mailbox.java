@@ -36,7 +36,7 @@ public class Mailbox {
 			not_empty.signal();
 		}
 		finally {
-		mutex.unlock();
+			mutex.unlock();
 		}
 	}
 	

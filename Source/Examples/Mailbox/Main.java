@@ -6,9 +6,9 @@ import Examples.Mailbox.Using_Java5.*;
 public class Main {
     public static void main (String[] args) {
         Mailbox mailbox = new Mailbox(3);
-        Receiver r1 = new Receiver(mailbox, 5);
-        Sender s1 = new Sender(mailbox, 4);
-        Sender s2 = new Sender(mailbox, 6);
-        Receiver r2 = new Receiver(mailbox, 5);
+        Receiver r1 = new Receiver(mailbox, 4);
+        Sender s1 = new Sender(mailbox, 3);
+        Sender s2 = new Sender(mailbox, 5);
+        Receiver r2 = new Receiver(mailbox, 4);
     }
 };

@@ -8,8 +8,7 @@ public class Main {
         File_Manager file_manager = new File_Manager();
         Reader r1 = new Reader(file_manager, 5);
         Reader r2 = new Reader(file_manager, 4);
-		Writer w1 = new Writer(file_manager, 4);
-		Reader r3 = new Reader(file_manager, 3);
-        Writer w2 = new Writer(file_manager, 6);
+		Writer w1 = new Writer(file_manager, 2);
+        Writer w2 = new Writer(file_manager, 3);
     }
 };

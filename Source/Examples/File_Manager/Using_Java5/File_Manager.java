@@ -3,10 +3,10 @@ package Examples.File_Manager.Using_Java5;
 import java.util.concurrent.locks.*;
 
 public class File_Manager {
-	private int active_readers = 0, waiting_readers = 0, waiting_writers = 0;
+	private int active_readers = 0;
 	private boolean active_writer = false;
 	
-	private Lock mutex = new ReentrantLock();
+	private ReentrantLock mutex = new ReentrantLock();
 	private Condition ok_readers = mutex.newCondition();
 	private Condition ok_writer = mutex.newCondition();
 	
@@ -19,12 +19,10 @@ public class File_Manager {
 			mutex.lock();
 			System.out.println("  Read request");
 			
-			if (active_writer || waiting_writers > 0) {
+			if (active_writer || mutex.hasWaiters(ok_writer)) {
 				do {
 					System.out.println("    Waiting for readers turn");
-					waiting_readers ++;
 					ok_readers.await();
-					waiting_readers --;
 				} while (active_writer);
 			}
 			System.out.println("      Start reading");
@@ -56,9 +54,7 @@ public class File_Manager {
 			
 			while (active_writer || active_readers > 0) {
 				System.out.println("    Waiting for my turn");
-				waiting_writers ++;
 				ok_writer.await();
-				waiting_writers --;
 			}
 			System.out.println("      Start writing");
 			active_writer = true;
@@ -74,8 +70,8 @@ public class File_Manager {
 			System.out.println("      End writing");
 			
 			active_writer = false;
-			if (waiting_readers > 0) ok_readers.signal();
-			else if (waiting_writers > 0) ok_writer.signal();
+			if (mutex.hasWaiters(ok_readers)) ok_readers.signal();
+			else if (mutex.hasWaiters(ok_writer)) ok_writer.signal();
 		}
 		finally {
 			mutex.unlock();
